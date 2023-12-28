@@ -32,8 +32,9 @@ def program():
 program()
 ```
 ### OUTPUT:
-![OUTPUT](/Screenshot%202023-12-28%20130035.png)
-![OUTPUT](/Screenshot%202023-12-28%20130054.png)
-![OUTPUT](/Screenshot%202023-12-28%20130126.png)
+![Screenshot 2023-12-28 130035](https://github.com/Thilakeshwaran/command-line-arguments-to-count-word/assets/147473132/8234c78d-bf6b-42c2-a8a7-3872fcf642a4)
+![Screenshot 2023-12-28 130054](https://github.com/Thilakeshwaran/command-line-arguments-to-count-word/assets/147473132/4fe48f1d-5c5e-4345-b345-5fbed6aedc6b)
+![Screenshot 2023-12-28 130126](https://github.com/Thilakeshwaran/command-line-arguments-to-count-word/assets/147473132/52d413ff-45ec-4033-8b5d-5be0f102b980)
+
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
